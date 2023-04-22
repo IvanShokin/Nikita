@@ -1,4 +1,3 @@
-import keyboard
 import time
 import os
 from random import randint
