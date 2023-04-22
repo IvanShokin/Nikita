@@ -1,0 +1,38 @@
+[
+  {
+    "first_name": "Ivan",
+    "last_name": "Kitov",
+    "number": 89045059624,
+    "age": 26.5,
+    "married": false,
+    "children": null,
+    "friends": [
+      "Paverl",
+      "Denis",
+      "Georgy"
+    ],
+    "work": {
+      "specialization": "development",
+      "experience": 5,
+      "organization": "DSTU"
+    }
+  },
+  {
+    "first_name": "Pavel",
+    "last_name": "Shokin",
+    "number": 89045059644,
+    "age": 26.5,
+    "married": false,
+    "children": null,
+    "friends": [
+      "Paverl",
+      "Denis",
+      "Georgy"
+    ],
+    "work": {
+      "specialization": "development",
+      "experience": 5,
+      "organization": "DSTU"
+    }
+  }
+]
