@@ -15,7 +15,6 @@ class BasicWord:
     def len_word(self):
         return len(self.original_word)
 
-
 class Player:
     def __init__(self, name):
         self.name = name
